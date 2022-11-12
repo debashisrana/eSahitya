@@ -1,0 +1,8 @@
+{
+  "name": "eSahitya",
+  "displayName": "eSahitya",
+  "icon": "./assets/logo.png",
+  "splash": {
+    "image": "./assets/logo.png"
+  }
+}
